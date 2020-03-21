@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render a snapshot 1`] = `
+<body>
+  <div>
+    <div>
+      <h1>
+        Menú de Películas
+      </h1>
+      <br />
+      <ul>
+        <li>
+          Jurassic Park
+        </li>
+        <li>
+          Pesadilla en Elm Street
+        </li>
+        <li>
+          Hermano Oso
+        </li>
+        <li>
+          La Gran Apuesta
+        </li>
+        <li>
+          Los Vengadores
+        </li>
+        <li>
+          Yo, Robot
+        </li>
+      </ul>
+    </div>
+  </div>
+</body>
+`;
